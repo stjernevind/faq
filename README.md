@@ -1,1 +1,1 @@
-# faq
+# FAQ for telefonkatalog
